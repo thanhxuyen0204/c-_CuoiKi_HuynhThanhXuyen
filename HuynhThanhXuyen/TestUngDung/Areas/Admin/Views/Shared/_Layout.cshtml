@@ -1,0 +1,155 @@
+﻿
+    @using ModelEF.Model;
+    @using Web.Areas.Admin.Models
+    @using Web.Common;
+    @{
+        Layout = null;
+    }
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="ThemeBucket">
+    <link rel="shortcut icon" href="~/Assets/images/favicon.png">
+    <title>SanPham</title>
+    <!--Core CSS ~/Assets/ -->
+    <link href="~/Assets/bs3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="~/Assets/js/jquery-ui/jquery-ui-1.10.1.custom.min.css" rel="stylesheet">
+    <link href="~/Assets/css/bootstrap-reset.css" rel="stylesheet">
+    <link href="~/Assets/font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <!--Morris Chart CSS -->
+    <link rel="stylesheet" href="~/Assets/js/morris-chart/morris.css">
+    <!-- Custom styles for this template -->
+    <link href="~/Assets/css/style.css" rel="stylesheet">
+    <link href="~/Assets/css/style-responsive.css" rel="stylesheet" />
+    <style>
+        #chinh{
+            font-weight:700;
+        }
+    </style>
+</head>
+<body>
+
+    <section id="container">
+        <!--header start-->
+        <header class="header fixed-top clearfix" style="background-color:#FAD0C3">
+            <!--logo start-->
+            <div class="brand">
+                <a href="index.html" class="logo" style="margin:0px 0 0 0px;">
+                    <img src="~/Assets/images/logo1.jpg" alt="" style="width:240px; height: 80px">
+                </a>
+            </div>
+            <div class="top-nav clearfix" style="background-color:#FAD0C3; ">
+                <img src="~/Assets/images/home1.png" style=" margin-top:20px; margin-left:10px ;width:40px; height: 40px">
+                <div class="btn-group">
+                    <button type="button" class="btn btn-danger" style="margin-top: 27px; font-weight:900"><a href="~/Admin/Home/Index" id="chinh">TRANG CHỦ</a></button>
+
+                </div>
+
+                <div class="btn-group" style="margin-top: 27px">
+                    <button type="button" class="btn btn-danger"><a href="~/Admin/Product/Index" id="chinh">  Quản lý sản phẩm</a></button>
+                </div>
+
+                <div class="btn-group" style="margin-top: 27px">
+                    <button type="button" class="btn btn-danger"><a href="~/Admin/User/Index" id="chinh"> Quản lý người dùng</a></button>
+                </div>
+                <!--search & user info start-->
+                <ul class="nav pull-right top-menu">
+                    <!-- user login dropdown start-->
+                    <li class="dropdown" style=" margin-top:20px">
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <img alt="" src="~/Assets/images/hinhdaidien.jpg">
+                            <span class="username">
+                                @{
+                                    var session = Session[Constants.USER_SESSION];
+                                    if (session != null)
+                                    { @session}
+                                }
+
+                            </span>
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu extended logout">
+                            <li>
+                                <a href="@Url.Action("Logout","Home")">
+                                    <i class="fa fa-key"></i>Đăng xuất
+                                </a>
+                            </li>
+                        </ul>
+                    </li>
+                    <!-- user login dropdown end -->
+
+                </ul>
+                <!--search & user info end-->
+            </div>
+        </header>
+        <!--header end-->
+        <!--sidebar start-->
+        <aside>
+            <div id="sidebar" class="nav-collapse" style="background-color:azure">
+
+                <marquee id="marq" scrollamount="10" direction="down" loop="50" scrolldelay="3" onmouseout="this.start()">
+                    <img alt="" src="~/Assets/images/son2.jpg" style="width:240px ;height:200px">
+                    <img alt="" src="~/Assets/images/son1.jpg" style="width: 240px ;height:200px">
+                    <img alt="" src="~/Assets/images/son3.jpg" style="width: 240px ;height:200px ">
+                    <img alt="" src="~/Assets/images/son5.jpg" style="width: 240px ;height:200px ">
+                    <img alt="" src="~/Assets/images/son6.jpg" style="width: 240px ;height:200px ">
+                    <img alt="" src="~/Assets/images/son4.jpg" style="width: 240px ;height:200px ">
+                </marquee>
+            </div>
+        </aside>
+        <!--sidebar end-->
+        <!--main content start-->
+        <section id="main-content">
+            <section class="wrapper">
+                <div class="row">
+                    <div class="col-md-12">
+                        <section class="panel">
+                            <header class="panel-heading">
+                                <label style="color:red"><b>@RenderSection("header", required: true)</b></label>
+                            </header>
+                            <div class="panel-body">
+                                @if (TempData["AlertMessage"] != null)
+                                {
+                                    <div id="AlertBox" class="alert @TempData["AlertType"] hide">
+                                        @TempData["AlertMessage"]
+                                    </div>
+                                }
+                                @RenderBody()
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </section>
+        </section>
+        <div class="copyright__inner" style="margin-left: 300px">
+            <p>Copyright© <a href="https://freethemescloud.com/">Shop Son Môi</a> 2018. All right reserved.</p>
+            <a href="#"><img src="~/Assets/Cus/images/others/shape/paypol.png" alt="payment images"></a>
+        </div>
+    </section>
+    <!--Core js-->
+    <script src="~/Assets/js/jquery.js"></script>
+    <script src="~/Assets/js/jquery-ui/jquery-ui-1.10.1.custom.min.js"></script>
+    <script src="~/Assets/bs3/js/bootstrap.min.js"></script>
+    <script src="~/Assets/js/jquery.dcjqaccordion.2.7.js"></script>
+    <script src="~/Assets/js/jquery.nicescroll.js"></script>
+
+    <!--common script init for all pages-->
+    <script src="~/Assets/js/scripts.js"></script>
+    <!--script for this page-->
+    <script>
+        $(function () {
+            $('#AlertBox').removeClass('hide');
+            $('#AlertBox').delay(5000).slideUp(500);
+        });
+    </script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Assets/Plugins/ckfinder/ckfinder.js"></script>
+    @RenderSection("footerjs", required: false);
+</body>
+</html>

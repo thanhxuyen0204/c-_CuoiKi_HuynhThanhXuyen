@@ -1,0 +1,97 @@
+﻿@model ModelEF.Model.UserAccount
+@{
+    ViewBag.Title = "Tạo người dùng mới";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<style>
+    #css {
+        background-color: #FF3366;
+        width: 133px;
+        height: 41px;
+        margin: 0px;
+        border: 1px solid;
+        padding: 10px 15px;
+        margin-right: 40px;
+        font-weight: 600;
+        border-radius: 12px;
+    }
+
+    #label {
+        font-weight: 700;
+        color: #009688;
+        height: 30px;
+        text-align: left;
+        margin-left: 50px;
+    }
+
+    #ten {
+        color: black;
+    }
+
+    #ma {
+        color: brown;
+        font-weight: 700;
+    }
+</style>
+@section header{
+
+    <div id="titleMain" style="color:#EB144C ; font-size:20px">
+        <img alt="" src="~/Assets/images/themmoi.png" width="45px" height="45px">&nbsp;Thêm User
+    </div>
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, null, new { @class = "alert alert-danger" })
+
+<div class="form-horizontal">
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="form-group">
+        @Html.Label("Tên người dùng", htmlAttributes: new { @class = "control-label col-md-2", @id = "label" })
+        <div class="col-md-6">
+            <center>
+                @Html.TextBoxFor(model => model.userName, new { @class = "form-control", @placeholder = "Mời nhập tên đăng nhập" })
+                @Html.ValidationMessageFor(model => model.userName, "", new { @class = "text-danger" })
+            </center>
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Mật khẩu", htmlAttributes: new { @class = "control-label col-md-2", @id = "label" })
+        <div class="col-md-6">
+            <center>
+                @Html.TextBoxFor(model => model.Password, new { @class = "form-control", @type = "password", @placeholder = "Mời nhập mật khẩu" })
+                @Html.ValidationMessageFor(model => model.Password, "", new { @class = "text-danger" })
+            </center>
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.Label("Số điện thoại", htmlAttributes: new { @class = "control-label col-md-2", @id = "label" })
+        <div class="col-md-6">
+            <center>
+                @Html.TextBoxFor(model => model.SDT, new { @class = "form-control", @placeholder = "Mời nhập số điện thoại" })
+                @Html.ValidationMessageFor(model => model.SDT, "", new { @class = "text-danger" })
+            </center>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.Label("Quyền", htmlAttributes: new { @class = "control-label col-md-2", @id = "label" })
+        <div class="col-md-6">
+            <center>
+                @Html.DropDownListFor(model => model.Quyen, (IEnumerable<SelectListItem>)ViewBag.IdQuyen, new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.Quyen, "", new { @class = "text-danger" })
+            </center>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-md-offset-4 col-md-10" style=" margin-left:330px">
+            @Html.ActionLink("Về trang quản lý", "Index", "User", null, new { @id = "css" })
+            <input id="buttonMain" type="submit" value="Cập nhật" class="btn btn-success" style="border-radius: 12px; color: black; width: 132px; background-color: #00DD00; border: 1px solid; font-weight: 600;" />
+        </div>
+
+    </div>
+    
+</div>
+}

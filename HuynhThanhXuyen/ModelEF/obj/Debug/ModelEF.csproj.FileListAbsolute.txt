@@ -1,0 +1,48 @@
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\ModelEF.pdb
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.csproj.CopyComplete
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\ModelEF\obj\Debug\ModelEF.pdb

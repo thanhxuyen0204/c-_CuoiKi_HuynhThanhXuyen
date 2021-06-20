@@ -1,0 +1,522 @@
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\New folder\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\New folder\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\1cnang\HuynhThanhXuyen\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\C_Shape\HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\TestUngDung.pdb
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.exe.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csc.rsp
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.exe.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\csi.rsp
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.AppContext.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Console.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Compression.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.IO.Pipes.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Claims.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.ValueTuple.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.exe.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\vbc.rsp
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\WebGrease.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.pdb
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\ModelEF.dll.config
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\EntityFramework.SqlServer.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\PagedList.Mvc.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Helpers.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Mvc.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Optimization.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.Razor.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Deployment.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\System.Web.WebPages.Razor.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Newtonsoft.Json.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Antlr3.Runtime.pdb
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csprojAssemblyReference.cache
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CoreCompileInputs.cache
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.csproj.CopyComplete
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.dll
+C:\Users\babyd\Desktop\C#_BaiCuoiKi_HuynhThanhXuyen\HuynhThanhXuyen\TestUngDung\obj\Debug\TestUngDung.pdb
